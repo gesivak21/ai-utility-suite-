@@ -21,7 +21,7 @@ The application is deployed on GCP Cloud Run and can be accessed here:
 
 ## 🎥 Demo Preview <p align="center"> 
 <img src="https://github.com/gesivak21/meeting-summarizer-ai/blob/master/demo.gif" width="500" alt="Meeting Summarizer Demo">
-</p> 🎯 *Watch how the app converts a YouTube meeting into a transcript, summary, and actionable insights — all in one click!*
+</p> 🎯 *Watch how the app converts a audio/video meeting into a transcript, summary, and actionable insights — all in one click!*
 
 👉 **[🎬 View Full Demo](https://gesivak21.github.io/MyPortfolio/projects/meeting-summarizer-demo.html)**
 
