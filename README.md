@@ -11,6 +11,14 @@ The application is designed with secure authentication, scalable backend service
 
 ---
 
+## 🌐 Live Application
+
+The application is deployed on GCP Cloud Run and can be accessed here:
+
+👉 https://ai-utility-suite-754273589848.us-central1.run.app/
+
+---
+
 ## 🎥 Demo Preview <p align="center"> 
 <img src="https://github.com/gesivak21/meeting-summarizer-ai/blob/master/demo.gif" width="500" alt="Meeting Summarizer Demo">
 </p> 🎯 *Watch how the app converts a YouTube meeting into a transcript, summary, and actionable insights — all in one click!*
